@@ -157,7 +157,7 @@ const Home = () => {
         </style>
 
         {/* Massive Background Title - ANIMATED */}
-        <div className="w-full text-center mt-10 z-0 absolute top-0">
+        <div className="w-full text-center mt-10 z-0 absolute top-0 mt-20">
           <h1
             className="text-[10vw] font-black tracking-tight leading-none animate-fade-up"
             style={{ animationDelay: "0s" }}
