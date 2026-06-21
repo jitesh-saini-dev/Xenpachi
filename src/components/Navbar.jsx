@@ -35,7 +35,7 @@ const Navbar = () => {
         >
           Cart {cart.length > 0 && `(${cart.length})`}
         </Link>
-        {/* Naye Login aur Signup Links */}
+
         <Link
           to="/login"
           className="hover:text-gray-500 transition border-l border-gray-300 pl-8"

@@ -7,7 +7,6 @@ export const CartProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    // 12 items ka proper store data
     const fetchedProducts = [
       {
         id: 1,
